@@ -5,5 +5,7 @@ Também utilizei o iText7 para escrever documentos pdf.
 
 # Funcionalidades do Software
 Sistema de login intregado com Banco de Dados SQLite.
+
 Gestão de Alunos, Professores, Turmas e Horários.
+
 Hierarquia de Usuários para gerenciamento de categoria.
